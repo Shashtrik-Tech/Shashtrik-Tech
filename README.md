@@ -1,109 +1,120 @@
-# 🚀 Shashtrik Tech
-Engineering built with discipline. No shortcuts. No circus.
+<h1 align="center">⚡ SHASHTRIK TECH ⚡</h1>
 
-![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
-![Security](https://img.shields.io/badge/Security-Strict-critical?style=for-the-badge)
-![Engineering](https://img.shields.io/badge/Engineering-Standards_Enforced-black?style=for-the-badge)
-![Languages](https://img.shields.io/badge/Languages-Python_|_JS-yellow?style=for-the-badge)
-
----
-
-## 🏛 About the Company
-Shashtrik Tech builds tools and systems the traditional way — with clarity, precision, and long-term thinking.  
-No bloat. No hype. Just solid engineering.
-
-We focus on:
-- Core SDKs  
-- Cloud utilities  
-- UI systems  
-- AI frameworks  
-- Security-driven software  
-- Automation tools  
-- Research & experimental engineering  
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-ACTIVE-1DBF73?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Security-HARDENED-E63946?style=for-the-badge&logo=helm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Engineering-DISCIPLINED-1D3557?style=for-the-badge&logo=circle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Design-MINIMAL-black?style=for-the-badge&logo=sketch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Code-Python_|_JS-457B9D?style=for-the-badge&logo=code&logoColor=white"/>
+</p>
 
 ---
 
-# 📦 Active Projects
+## 🛡️ **Who We Are**
+Shashtrik Tech isn’t here to play startup games.  
+We build **hard, serious, timeless engineering** — the kind that doesn’t break and doesn’t age.
 
-### 🔧 **Shashtrik Core**
-Foundation utilities powering all Shashtrik projects.  
-**Status:** ![active](https://img.shields.io/badge/Active-green?style=flat-square)
-
----
-
-### ☁ **Shashtrik Cloud**
-Auth, service templates, storage layers.  
-**Status:** ![dev](https://img.shields.io/badge/Building-blue?style=flat-square)
-
----
-
-### 🧠 **Shashtrik AI**
-Practical AI, NLP, sentiment engines.  
-**Status:** ![labs](https://img.shields.io/badge/Labs-orange?style=flat-square)
+We believe in:
+- Real engineering  
+- Clean design  
+- Ruthless clarity  
+- Old-school discipline  
+- No shortcuts, no glitter  
 
 ---
 
-### 🛠 **Shashtrik CLI**
-Developer command-line toolkit.  
-**Status:** ![proto](https://img.shields.io/badge/Prototype-lightgrey?style=flat-square)
+# ⚔️ **Divisions & Their Power Levels**
+
+### 🔧 **SHASHTRIK CORE**  
+_The spine of the entire ecosystem._  
+![Status](https://img.shields.io/badge/STATUS-CRITICAL-green?style=flat-square)
 
 ---
 
-### 🎨 **Shashtrik UI Kit**
-Modern UI components with a clean, minimal design language.  
-**Status:** ![designing](https://img.shields.io/badge/Designing-purple?style=flat-square)
+### ☁ **SHASHTRIK CLOUD**  
+_Service layers. Auth. Storage. Scalability._  
+![Status](https://img.shields.io/badge/STATUS-BUILDING-blue?style=flat-square)
 
 ---
 
-### 🔬 **Shashtrik Labs**
-Algorithms, cryptography, OS concepts, experiments.  
-**Status:** ![research](https://img.shields.io/badge/Research-Active-green?style=flat-square)
+### 🧠 **SHASHTRIK AI**  
+_Real AI. No hype. No gimmicks._  
+![Status](https://img.shields.io/badge/STATUS-LABS-orange?style=flat-square)
 
 ---
 
-# 🧭 Engineering Principles
-- Build once, build it right.  
-- Minimal design lasts longer.  
-- Security comes first.  
-- Every repo must be documented.  
-- Dependencies only when absolutely required.  
-- Testing is part of the build.  
-- Folder structures stay consistent across all projects.  
+### 🛠 **SHASHTRIK CLI**  
+_Your command line becomes a weapon._  
+![Status](https://img.shields.io/badge/STATUS-PROTOTYPE-lightgrey?style=flat-square)
 
 ---
 
-# 📚 Documentation Index
-
-### 📘 Standards
-- Coding conventions  
-- Folder structure rules  
-- Commit guidelines  
-- Naming styles  
-
-### 🔐 Security Guidelines
-- Key handling  
-- Secret policies  
-- Hashing/encryption rules  
-
-### 🧱 Architecture
-- Core → Cloud → UI → AI hierarchy  
-- Versioning and release policy  
+### 🎨 **SHASHTRIK UI KIT**  
+_Minimal. Sharp. Zero fat. Zero confusion._  
+![Status](https://img.shields.io/badge/STATUS-DESIGNING-purple?style=flat-square)
 
 ---
 
-# 💼 Contribution
-Contributions follow strict discipline.
-
-**PR Rules:**  
-- Clean commits  
-- Mandatory documentation  
-- Reasoned design decisions  
-- Tests where required  
-- No unnecessary files  
+### 🔬 **SHASHTRIK LABS**  
+_Where dangerous ideas are tested._  
+![Status](https://img.shields.io/badge/STATUS-RESEARCH-green?style=flat-square)
 
 ---
 
-# 🏁 Vision
-To build modern tools with the reliability and seriousness engineering used to have.
+# 🧭 **Engineering Codex**
+These rules define us:
+
+- **No weak code.**  
+- **No unnecessary dependencies.**  
+- **No sloppy folder structure.**  
+- **Documentation is mandatory, not optional.**  
+- **Security first, convenience later.**  
+- **Tests are part of the architecture.**  
+- **If it's not minimal, it's not accepted.**  
+
+---
+
+# 📚 **Documentation Hubs**
+
+### 📘 **Standards**
+- Unified folder architecture  
+- Commit naming protocol  
+- Coding discipline  
+- API structuring  
+
+### 🔐 **Security**
+- Hashing rules  
+- Secrets & environment policy  
+- Key rotation guidelines  
+
+### 🧱 **Architecture Stack**
+```
+CORE → CLOUD → UI → AI → AUTOMATION → LABS
+```
+
+---
+
+# 🏛 **Contribution Protocol**
+This is not a casual repo.
+
+Every PR must follow:
+- Clean reasoning  
+- Clean code  
+- Clean documentation  
+- No junk files  
+- No last-minute hacks  
+- Review without ego  
+- Changes with purpose  
+
+---
+
+# 🎯 **Vision**
+To build modern systems with the strength, sharpness, and seriousness engineering used to have.
+
+---
+
+# 🏷️ **Shashtrik Signature Badge**
+```
+![Shashtrik](https://img.shields.io/badge/SHASHTRIK-TECH-black?style=for-the-badge)
+```
 
