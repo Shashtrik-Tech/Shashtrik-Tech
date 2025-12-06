@@ -1,120 +1,132 @@
-<h1 align="center">⚡ SHASHTRIK TECH ⚡</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-ACTIVE-1DBF73?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Security-HARDENED-E63946?style=for-the-badge&logo=helm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Engineering-DISCIPLINED-1D3557?style=for-the-badge&logo=circle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Design-MINIMAL-black?style=for-the-badge&logo=sketch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Code-Python_|_JS-457B9D?style=for-the-badge&logo=code&logoColor=white"/>
-</p>
+# SHASHTRIK TECH  
+Systems. Discipline. Architecture.
 
 ---
 
-## 🛡️ **Who We Are**
-Shashtrik Tech isn’t here to play startup games.  
-We build **hard, serious, timeless engineering** — the kind that doesn’t break and doesn’t age.
+## I. OVERVIEW  
+Shashtrik Tech operates with a singular directive:
 
-We believe in:
-- Real engineering  
-- Clean design  
-- Ruthless clarity  
-- Old-school discipline  
-- No shortcuts, no glitter  
+**Build systems that remain correct under pressure, load, and time.**
 
----
+We design with:
+- Determinism  
+- Minimalism  
+- Predictable complexity  
+- Proven engineering principles  
+- Security as a foundational constraint  
 
-# ⚔️ **Divisions & Their Power Levels**
-
-### 🔧 **SHASHTRIK CORE**  
-_The spine of the entire ecosystem._  
-![Status](https://img.shields.io/badge/STATUS-CRITICAL-green?style=flat-square)
+This organization exists for engineers who think in systems, not shortcuts.
 
 ---
 
-### ☁ **SHASHTRIK CLOUD**  
-_Service layers. Auth. Storage. Scalability._  
-![Status](https://img.shields.io/badge/STATUS-BUILDING-blue?style=flat-square)
+## II. DIVISIONS
+
+### 1. CORE  
+*Base primitives, foundational utilities, deterministic APIs.*  
+Status: STABLE  
+Scope: data structures, crypto utilities, system modules.
 
 ---
 
-### 🧠 **SHASHTRIK AI**  
-_Real AI. No hype. No gimmicks._  
-![Status](https://img.shields.io/badge/STATUS-LABS-orange?style=flat-square)
+### 2. CLOUD  
+*Identity, storage, distributed interfaces.*  
+Status: ACTIVE  
+Scope: auth layers, service protocols, gateway logic.
 
 ---
 
-### 🛠 **SHASHTRIK CLI**  
-_Your command line becomes a weapon._  
-![Status](https://img.shields.io/badge/STATUS-PROTOTYPE-lightgrey?style=flat-square)
+### 3. AI  
+*Applied intelligence with measurable performance.*  
+Status: LAB  
+Scope: NLP engines, sentiment models, embeddings, inference pipelines.
 
 ---
 
-### 🎨 **SHASHTRIK UI KIT**  
-_Minimal. Sharp. Zero fat. Zero confusion._  
-![Status](https://img.shields.io/badge/STATUS-DESIGNING-purple?style=flat-square)
+### 4. CLI  
+*Operator-grade command tools.*  
+Status: PROTOTYPE  
+Scope: generators, security wrappers, automation chains.
 
 ---
 
-### 🔬 **SHASHTRIK LABS**  
-_Where dangerous ideas are tested._  
-![Status](https://img.shields.io/badge/STATUS-RESEARCH-green?style=flat-square)
+### 5. UI SYSTEM  
+*Human interface built with constraint and order.*  
+Status: DESIGN  
+Scope: component standards, layout rules, interaction patterns.
 
 ---
 
-# 🧭 **Engineering Codex**
-These rules define us:
-
-- **No weak code.**  
-- **No unnecessary dependencies.**  
-- **No sloppy folder structure.**  
-- **Documentation is mandatory, not optional.**  
-- **Security first, convenience later.**  
-- **Tests are part of the architecture.**  
-- **If it's not minimal, it's not accepted.**  
+### 6. LABS  
+*High-risk, high-curiosity engineering.*  
+Status: ACTIVE  
+Scope: algorithms, OS concepts, cryptographic research.
 
 ---
 
-# 📚 **Documentation Hubs**
+## III. ENGINEERING PRINCIPLES (MANDATORY)
 
-### 📘 **Standards**
-- Unified folder architecture  
-- Commit naming protocol  
-- Coding discipline  
-- API structuring  
+1. **No abstraction without necessity.**  
+2. **No dependency without justification.**  
+3. **Code must be explainable from first principles.**  
+4. **APIs must be stable and predictable.**  
+5. **Security is not negotiable.**  
+6. **Documentation equals engineering.**  
+7. **Folders are part of the architecture.**  
+8. **Tests validate intent, not accidents.**  
 
-### 🔐 **Security**
-- Hashing rules  
-- Secrets & environment policy  
-- Key rotation guidelines  
+This is a discipline-first environment.  
+If the design is noisy, it fails.
 
-### 🧱 **Architecture Stack**
+---
+
+## IV. DOCUMENTATION INDEX
+
+### A. Standards  
+- Repository architecture protocol  
+- Naming systems  
+- Versioning policy  
+- Commit taxonomy  
+
+### B. Security Protocols  
+- Hashing and key policies  
+- Secret handling  
+- Boundary trust rules  
+- Attack-surface minimization  
+
+### C. System Layering  
 ```
 CORE → CLOUD → UI → AI → AUTOMATION → LABS
 ```
+Modules must respect directional dependency flow.
 
 ---
 
-# 🏛 **Contribution Protocol**
-This is not a casual repo.
+## V. CONTRIBUTION MODEL  
+Not open by default.  
+Accepted only from engineers who demonstrate:
 
-Every PR must follow:
-- Clean reasoning  
-- Clean code  
-- Clean documentation  
-- No junk files  
-- No last-minute hacks  
-- Review without ego  
-- Changes with purpose  
+- Formal reasoning  
+- Clean design choices  
+- Predictable code behavior  
+- Documentation precision  
+- Zero tolerance for unnecessary complexity  
+
+Pull Requests must include:
+
+1. Intent  
+2. Boundary analysis  
+3. Justification of design  
+4. Integration safety  
+5. Impact surface  
+
+Anything less is declined.
 
 ---
 
-# 🎯 **Vision**
-To build modern systems with the strength, sharpness, and seriousness engineering used to have.
+## VI. VISION  
+To create a technical ecosystem that values correctness and clarity above spectacle —  
+for engineers who prefer **understanding** over **convenience**, and **structure** over **trend**.
 
----
-
-# 🏷️ **Shashtrik Signature Badge**
-```
-![Shashtrik](https://img.shields.io/badge/SHASHTRIK-TECH-black?style=for-the-badge)
-```
+Nothing more.  
+Nothing less.
 
